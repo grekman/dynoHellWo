@@ -1,0 +1,2 @@
+# dynoHellWo
+динамический Hello World.
