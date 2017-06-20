@@ -1,0 +1,69 @@
+.missing {
+  display: block;
+  list-style: none;
+}
+
+.passed {
+  text-decoration: line-through;
+  list-style: none;
+}
+
+.App {
+  height: 100vh;
+
+
+}
+.task2 {
+  height: 30px;
+  width: 400px;
+  margin: 40px auto;
+}
+.yellow {
+  background: #fff59d;
+}
+.green {
+  background: #81c784;
+}
+
+.red {
+  background: #ef9a9a;
+}
+
+.blue {
+  background: #90caf9;
+}
+
+.orange {
+  background: #ffb74d;
+}
+
+
+.timer {
+
+  margin: 30px auto;
+}
+
+.outline {
+  margin: 20px auto;
+  width: 400px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.inline {
+  margin: 5px 5px 5px 5px;
+  width: 380px;
+  height: 30px;
+  border-radius: 15px;
+  background: #ffb74d;
+  text-align: left;
+  line-height: 30px;
+  padding-left: 10px ;
+
+}
+
+.plus {
+
+  margin: 0 auto;
+}
